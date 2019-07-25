@@ -93,4 +93,8 @@ dependencies {
 
     // Client for retrieving location
     implementation "com.google.android.gms:play-services-location:$version_play_services"
+
+    //Library for material design
+    implementation "com.google.android.material:material:$version_material"
+
 }
